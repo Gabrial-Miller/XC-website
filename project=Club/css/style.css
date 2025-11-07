@@ -11,7 +11,7 @@
 
 
     
-    /*
+    
 }
 #header{
     display:flex;
@@ -54,11 +54,12 @@ margin-top:100px;
 
 }
 
-/*.info{
+.info{
     width:500px;
     font-size:1.5em;
     border:2px solid var(--prime);
     
     
+
 
 }
